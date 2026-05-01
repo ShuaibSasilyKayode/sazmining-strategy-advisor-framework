@@ -19,6 +19,6 @@ As a **Bitcoin Strategy Advisor**, I utilize this tool to lead the end-to-end cu
 
 ---
 ### 🔗 How to Use the Model
-1. Access the interactive [Sazmining Strategy Model here](https://docs.google.com/spreadsheets/d/16AzKus4ooySobXnz3U2e61ym_UWZ3AvbSPMSwlEK0eU/edit?usp=sharing)
-2. Adjust the variables in the **Blue Input Cells** to match specific client hardware or budget[cite: 1].
-3. Review the **Cumulative BTC** column to assess long-term strategy[cite: 1].
+1. Access the interactive [Sazmining Strategy Model here](https://docs.google.com/spreadsheets/d/16AzKus4ooySobXnz3U2e61ym_UWZ3AVbSPMSwlEK0eU/edit?usp=sharing).
+2. Adjust the variables in the **Blue Input Cells** to match specific client hardware or budget.
+3. Review the **Cumulative BTC** column to assess long-term acquisition strategy.
